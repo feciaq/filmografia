@@ -2,7 +2,7 @@
 /* Media query / Media rule */
 @media screen and (max-width: 640px) {
   html {
-    font-size: 13px;
+    font-size: 14px;
   }
 
   header {
